@@ -17,29 +17,35 @@
 
 
 /* Hidden Objects */
+/* This sets the navigation element with a class called horizontal with the footer and article element with a display of none */
 nav.horizontal,
 footer,
 article {
     display: none;
 }
 
+/* This sets the section element with a id called sheet with a size of 6 inches and the margin is set to 0 inches and auto */
 section#sheet {
     size: 6in;
     margin: 0in auto;
 }
 
+/* This sets the image element with a class called size 1 with a width of 5 inches */
 img.size1 {
     width: 5in;
 }
 
+/* This sets the image element with a class called size 2 with a width of 3 inches */
 img.size2 {
     width: 3in;
 }
 
+/* This sets the image element with a class called size 3 with a width of 2 inches */
 img.size3 {
     width: 2in;
 }
 
+/* This sets the image element with a class called size4 and the width is set to 1.5 inches */
 img.size4 {
     width: 1.5in;
 }
